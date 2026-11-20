@@ -16,15 +16,15 @@ Project Presentation
 
 Try the AI Assistant
 
-Open the public chat
+Open the public chat https://dioptraai.app.n8n.cloud/webhook/911a35f7-c5c3-4269-a458-7d25873d156a/chat
 
 Explanatory Video
 
-Watch the project presentation video
+Watch the project presentation video https://drive.google.com/file/d/1lgF-0r451DiQM3wGcsbkv49w9L5V2Xd2/view?usp=drivesdk
 
 Explanatory Image
 
-View the project infographic
+View the project infographic https://drive.google.com/file/d/1gTvrYbD3aFEgfxo04syVavWSxDv-z_De/view?usp=drivesdk
 
 Main Features
 
